@@ -6,14 +6,17 @@ This Discord bot is built using the Discord.js library and utilizes slash comman
 
 Features
 Slash Commands
+
 /ping
 
 Description: Check the bot's latency and responsiveness.
 Usage: /ping
+
 /kick
 
 Description: Kick a member from the server.
 Usage: /kick @user
+
 /prune
 
 Description: Delete a specified number of messages from a channel.
@@ -26,6 +29,7 @@ Usage: /user @user
 
 Description: Get information about the current server.
 Usage: /server
+
 Setup
 Follow these steps to set up and run the bot on your server:
 
